@@ -1,0 +1,13 @@
+[ null, {
+  "id" : 1,
+  "jam_alat" : "Humas",
+  "nama_alat" : "Krisna Yudha",
+  "status_alat" : 51,
+  "tanggal_alat" : "Aktif"
+}, {
+  "id" : 2,
+  "jam_alat" : "PSDM",
+  "nama_alat" : "Ammar",
+  "status_alat" : 53,
+  "tanggal_alat" : "Aktif"
+} ]
